@@ -1,0 +1,10 @@
+
+*.*
+
+!/*.tcl
+!bd/*.bd
+!cons/*.xdc
+!board.prj
+!xsa/*.xsa
+
+!.gitignore
